@@ -18,7 +18,6 @@ This project involves the development of a knowledge-based system for cancer det
 - **Inference Engine**: Implements the logic for processing patient responses, updating probability estimates, and generating recommendations.
 - **Probability Model**: Defines the probabilistic model used to calculate the likelihood of cancer based on input variables and risk factors.
 - **User Interface Module**: Provides an interface for patients to input their responses to the questions and receive feedback from the system.
-- **Database Integration**: Optionally integrates with patient databases or electronic health records to access additional information for inference.
 
 ## Operation
 
